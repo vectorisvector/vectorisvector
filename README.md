@@ -1,5 +1,8 @@
 ### Hi there 👋
 
-![GitHub stats](./profile/stats.svg)
+![GitHub metrics](./profile/metrics.svg)
 
-[![Top Langs](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <img alt="Snake animation of my GitHub contributions" src="./profile/snake.svg" />
+</picture>
