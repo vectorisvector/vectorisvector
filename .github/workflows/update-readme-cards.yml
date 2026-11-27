@@ -37,7 +37,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
-          plugin_languages_skipped: acg-faka, xianyu-auto-reply
+          repositories_forks: no
+          repositories_skipped: acg-faka, xianyu-auto-reply, BatchMoney, ceremonyclient, ChatGPT-Next-Web, MoonTV, plugins, sub2api
+          plugin_languages_skipped: acg-faka, xianyu-auto-reply, BatchMoney, ceremonyclient, ChatGPT-Next-Web, MoonTV, plugins, sub2api
           plugins_errors_fatal: yes
           retries: 2
           retries_delay: 30
